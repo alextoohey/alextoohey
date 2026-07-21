@@ -49,7 +49,7 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 - **[Code for Good](https://codeforgoodberkeley.github.io/)** · Software Developer and Recruitment Chair
 
 ---
-
+<!--
 ## GitHub Activity
 
 <p align="center">
