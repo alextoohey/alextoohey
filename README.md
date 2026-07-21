@@ -25,7 +25,7 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 
 ## Projects
 
-**[AskOski](https://askoski.berkeley.edu/)** · [repo](https://github.com/alextoohey/AskOski) · AskOski helps 45,000+ Berkeley students plan their academic paths. I built the ML and data pipeline behind it: Apache Airflow workflows that retrain models automatically from live student-information-system data, BERT-based course modeling, and sub-250ms response times.
+**[AskOski](https://askoski.berkeley.edu/)** · [private repo] · AskOski helps 45,000+ Berkeley students plan their academic paths. I built the ML and data pipeline behind it: Apache Airflow workflows that retrain models automatically from live student-information-system data, BERT-based course modeling, and sub-250ms response times.
 
 **[EquiPath](https://equipath.streamlit.app/)** · [repo](https://github.com/alextoohey/EquiPath) · Most college search tools rank schools by prestige. For a first-generation student or a student-parent, that's the wrong question. EquiPath matches students to schools based on the constraints they actually face: financial aid, transfer rates, campus childcare, first-gen support. Built with scikit-learn and the Claude API. Won first place in the Educational Equity Track at Berkeley's Datathon for Social Good.
 
@@ -50,8 +50,10 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 
 ---
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alextoohey&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alextoohey&layout=compact&hide_border=true&langs_count=6)
+<a href="https://github.com/alextoohey">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alextoohey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoohey&layout=compact&hide_border=true&langs_count=6&hide=html,css" />
+</a>
 
 
 <!--
