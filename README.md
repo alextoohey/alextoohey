@@ -50,11 +50,22 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 
 ---
 
-<a href="https://github.com/alextoohey">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alextoohey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoohey&layout=compact&hide_border=true&langs_count=6&hide=html,css" />
-</a>
+## GitHub Activity
 
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=alextoohey&show_icons=true&include_all_commits=true&hide_border=true"
+    alt="Alex's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoohey&layout=compact&langs_count=8&hide_border=true"
+    alt="Alex's most-used languages"
+  />
+</p>
+
+[![Alex's contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=alextoohey&theme=github-compact&hide_border=true)](https://github.com/alextoohey)
 
 <!--
 **alextoohey/alextoohey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
