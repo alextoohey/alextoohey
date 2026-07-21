@@ -29,6 +29,8 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 
 **[EquiPath](https://equipath.streamlit.app/)** · [repo](https://github.com/alextoohey/EquiPath) · Most college search tools rank schools by prestige. For a first-generation student or a student-parent, that's the wrong question. EquiPath matches students to schools based on the constraints they actually face: financial aid, transfer rates, campus childcare, first-gen support. Built with scikit-learn and the Claude API. Won first place in the Educational Equity Track at Berkeley's Datathon for Social Good.
 
+**[ProbatePilot](https://github.com/alextoohey/probatepilot)** · [repo](https://github.com/alextoohey/probatepilot) · When someone dies, the executor is usually a grieving family member, not a lawyer, and they're personally liable if a deadline slips or creditors get paid out of order. ProbatePilot reads uploaded estate documents into a live estate record, then a deterministic California probate rule engine paired with a Claude tool-use agent flags the next deadline or liability risk before it becomes expensive. Built with the Claude API, FastAPI, and Next.js. Built with a 4-person team in 24 hours at UC Berkeley AI Hackathon 2026. I led document intelligence during the hackathon, then refactored the system solo for deployment afterward.
+
 ---
 
 ## Research & Writing
