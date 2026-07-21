@@ -33,8 +33,8 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 
 ## Research & Writing
 
-- **[Aurora anomaly detection](https://ssl_anomaly_aurora_research_poster.pdf)** · Space Sciences Laboratory @ UC Berkeley *(Fall 2025)* · Computer vision models for identifying rare auroral structures in nightly sky data.
-- **[Sheriff elections & incarceration](https://Stanford_Sheriff_Election_Research_Poster.pdf)** · Stanford Medicine, Epidemiology & Population Health *(Spring 2025)* · Co-engineered the first national county sheriff election dataset, then built inferential models linking sheriff demographics to local incarceration rates.
+- **[Aurora anomaly detection](https://alextoohey.dev/ssl_anomaly_aurora_research_poster.pdf)** · Space Sciences Laboratory @ UC Berkeley *(Fall 2025)* · Computer vision models for identifying rare auroral structures in nightly sky data.
+- **[Sheriff elections & incarceration](https://alextoohey.dev/Stanford_Sheriff_Election_Research_Poster.pdf)** · Stanford Medicine, Epidemiology & Population Health *(Spring 2025)* · Co-engineered the first national county sheriff election dataset, then built inferential models linking sheriff demographics to local incarceration rates.
 - **[Diffusion steering via RL](https://github.com/AlexZhai21/DSSDiffusion)** · Data Science Society @ Berkeley *(Spring 2026)* · Using reinforcement learning to steer diffusion models toward legible text in generated images.
 - **[The Art of the Underdog](https://sportsanalytics.studentorg.berkeley.edu/articles/art-of-underdog.html)** · Sports Analytics Group at Berkeley · What March Madness Cinderellas have in common, and which traits actually predict upset runs.
 - **[The Battle of the Surfaces](https://sportsanalytics.studentorg.berkeley.edu/articles/battle-of-surfaces.html)** · Sports Analytics Group at Berkeley · A lifelong tennis player asks how much of the clay/grass/hard-court folklore holds up in the data.
@@ -55,12 +55,12 @@ Data Science Intern at **Visa** in Foster City, building an LLM-based merchant r
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=alextoohey&show_icons=true&include_all_commits=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=alextoohey&show_icons=true&include_all_commits=true&hide_border=true"
     alt="Alex's GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextoohey&layout=compact&langs_count=8&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=alextoohey&layout=compact&langs_count=8&hide_border=true"
     alt="Alex's most-used languages"
   />
 </p>
