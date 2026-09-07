@@ -25,7 +25,7 @@ Data Science Intern at **Visa** in Foster City, building an LLM-native merchant 
 
 ## Projects
 
-**AskOski** · [private repo] · AskOski helps 45,000+ Berkeley students plan their academic paths. I helped build the ML and data pipeline behind it: Apache Airflow workflows that retrain models automatically from live student-information-system data, BERT-based course modeling, sub-250ms response times, and a multi-stage Docker rebuild that cut image size 80% from 25GB to 5GB.
+**[AskOski](https://askoski.berkeley.edu/)** · [private repo] · AskOski helps 45,000+ Berkeley students plan their academic paths. I helped build the ML and data pipeline behind it: Apache Airflow workflows that retrain models automatically from live student-information-system data, BERT-based course modeling, sub-250ms response times, and a multi-stage Docker rebuild that cut image size 80% from 25GB to 5GB.
 
 **[EquiPath](https://equipath.streamlit.app/)** · [repo](https://github.com/alextoohey/EquiPath) · Most college search tools rank schools by prestige. For a first-generation student or a student-parent, that's the wrong question. EquiPath matches students to schools based on the constraints they actually face: financial aid, transfer rates, campus childcare, first-gen support. Built with scikit-learn and the Claude API. Won first place in the Educational Equity Track at Berkeley's Datathon for Social Good.
 
