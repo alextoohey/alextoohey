@@ -6,7 +6,7 @@ Data Science & Computer Science student at UC Berkeley. I work in machine learni
 
 ---
 
-## Currently
+## Most Recently
 
 Data Science Intern at **Visa** in Foster City, building an LLM-native merchant recommendation model, trained and fine-tuned at scale on a dataset pulled, processed, and transformed from 76+ billion payment transactions, serving personalization to millions of cardholders.
 
