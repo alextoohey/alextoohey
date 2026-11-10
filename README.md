@@ -45,7 +45,7 @@ Data Science Intern at **Visa** in Foster City, building an LLM-native merchant 
 
 ## Teaching & Leadership
 
-- **[Data C8 (Foundations of Data Science)](https://data8.org/)** · Tutor on content team for Berkeley's intro data science class with 1500+ students
+- **[Data C8 (Foundations of Data Science)](https://data8.org/)** · TA for Berkeley's intro data science class with 1500+ students
 - **[Data Science Society at Berkeley](https://dssberkeley.com/)** · Project Manager, Technical Consultant, and Teaching Assistant
 - **[Sports Analytics Group at Berkeley](https://sportsanalytics.studentorg.berkeley.edu/)** · Data Journalist, Editor, and Advisor
 - **[Code for Good](https://codeforgoodberkeley.github.io/)** · Software Developer and Recruitment Chair
